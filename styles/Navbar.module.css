@@ -1,0 +1,25 @@
+.navContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 10%;
+    background-color: aqua;
+    position: sticky;
+}
+
+.logo {
+    font-weight: bold;
+    text-transform: capitalize;
+    font-size: 2rem;
+}
+
+.menuContainer {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.menuContainer li {
+    margin-left: 3rem;
+}
