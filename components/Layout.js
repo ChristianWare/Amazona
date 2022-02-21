@@ -13,7 +13,7 @@ function Layout({ children }) {
       <div className={styles.siteContainer}>
         {children}
       </div>
-      {/* <Footer /> */}
+      <Footer />
     </div>
   );
 }

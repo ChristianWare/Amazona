@@ -1,4 +1,7 @@
 .footerContainer {
     background-color: aquamarine;
     padding: 1rem 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
